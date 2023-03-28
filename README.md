@@ -10,3 +10,6 @@ You need python, no more depencies
  - Type: python3 interpreter.py
  - Load script via load YOUT_SCRIPT_NAME_HERE.asci
  - Run it via run
+
+# Examples?
+Compile badapple.txt to ascilang, and run it
